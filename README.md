@@ -1,0 +1,1 @@
+こちらの[ガイドライン](./FactoryDesignGuideline.md)をご覧ください。
